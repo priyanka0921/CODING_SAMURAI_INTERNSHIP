@@ -1,7 +1,7 @@
 # CODING_SAMURAI_INTERNSHIP
 # First-Task1:Calculator WebSite 
-Simple calculator web app use from arithmatic operation
-   https://replit.com/@priyankadash3/Calculator
+Simple calculator web app use from arithmatic operation .
+  replit : https://replit.com/@priyankadash3/Calculator
 # Introduction
 This calculator app allows you to perform addition, subtraction, multiplication, and division calculations. It provides a user-friendly interface for basic arithmetic operations.
 
